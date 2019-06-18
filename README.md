@@ -14,4 +14,5 @@ Sparta Test Git HUb
 
 > Blockquote Blockquote Blockquote Blockquote Blockquote Blockquote Blockquote Blockquote Blockquote Blockquote
 
-```hash
+```bash
+int[] myArray = new int[]{1,2,3};
