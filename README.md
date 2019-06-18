@@ -9,3 +9,5 @@ Sparta Test Git HUb
 *Italic*
 
 **Bold**
+
+***BoldItalic***
