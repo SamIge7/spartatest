@@ -6,6 +6,6 @@ Sparta Test Git HUb
 
 ### Topic
 
-*Bold*
+*Italic*
 
-**Italic**
+**Bold**
